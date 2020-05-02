@@ -1,0 +1,10 @@
+D:\Stepic C#\Инкапсуляция\Практика\Solution Project\bin\Debug\ReportMaker.cs
+D:\Stepic C#\Инкапсуляция\Практика\Solution Project\bin\Debug\Incapsulation.Failures.exe.config
+D:\Stepic C#\Инкапсуляция\Практика\Solution Project\bin\Debug\Incapsulation.Failures.exe
+D:\Stepic C#\Инкапсуляция\Практика\Solution Project\bin\Debug\Incapsulation.Failures.pdb
+D:\Stepic C#\Инкапсуляция\Практика\Solution Project\bin\Debug\nunit.framework.dll
+D:\Stepic C#\Инкапсуляция\Практика\Solution Project\bin\Debug\nunitlite.dll
+D:\Stepic C#\Инкапсуляция\Практика\Solution Project\obj\Debug\Incapsulation.Failures.csprojAssemblyReference.cache
+D:\Stepic C#\Инкапсуляция\Практика\Solution Project\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
+D:\Stepic C#\Инкапсуляция\Практика\Solution Project\obj\Debug\Incapsulation.Failures.exe
+D:\Stepic C#\Инкапсуляция\Практика\Solution Project\obj\Debug\Incapsulation.Failures.pdb
